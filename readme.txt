@@ -7,3 +7,7 @@ Git has a mutable index called stage.
 This is a track for changes
 
 This is a track for files
+
+This is a test for "git diff"
+
+This is a test for commit color1
