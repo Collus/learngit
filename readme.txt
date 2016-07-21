@@ -16,4 +16,5 @@ aaaaa
 
 I just added a new branch.,and now is on dev branch.
 
-This is used to test merge conflict.
+This is used to test Merge Conflict.
+
