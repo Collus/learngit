@@ -14,4 +14,4 @@ This is a test for commit color2
 
 aaaaa
 
-I just added a new branch.
+I just added a new branch.,and now is on dev branch.
