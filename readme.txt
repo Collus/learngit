@@ -10,4 +10,4 @@ This is a track for files
 
 This is a test for "git diff"
 
-This is a test for commit color1
+This is a test for commit color2
