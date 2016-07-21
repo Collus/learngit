@@ -13,3 +13,5 @@ This is a test for "git diff"
 This is a test for commit color2
 
 aaaaa
+
+I just added a new branch.
